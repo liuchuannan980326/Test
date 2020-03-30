@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+person:
+  lastName: liuchuannan
+  age: 18
+  boss: false
+  birth: 19980326
+  maps: {k1: v1,k2: 12}
+  lists:
+    - liuchuannan
+    - hesui
+  dog:
+    name: 小狗
+    age: 2
